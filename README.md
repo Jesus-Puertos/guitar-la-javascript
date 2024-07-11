@@ -15,7 +15,7 @@
 
 Este proyecto fue realizado siguiendo el curso React y TypeScript - La Guía Completa Creando +10 Proyectos de Juan de La Torre. En este curso, aprendí los conceptos básicos de React y TypeScript desarrollando un carrito de compras.
 
-El proyecto esta disponible en: [Ver proyecto](urlaqui) 
+El proyecto esta disponible en: [Ver proyecto](https://guitarla-javascript.netlify.app/) 
 
 [Reportar error](https://github.com/Jesus-Puertos/guitar-la-javascript/issues) · [Sugerir algo](https://github.com/Jesus-Puertos/guitar-la-javascript/issues)
 
@@ -83,7 +83,7 @@ El proyecto esta disponible en: [Ver proyecto](urlaqui)
 
 ## Contribuir al proyecto
 
-Este repositorio está destinado a este curso sin embargo si tienes algunas ideas y sugerencias y gustar implementarlas puedes hacerlo!! 🤗 , por favor sigue los siguientes pasos.
+Este repositorio está destinado a este curso sin embargo si tienes algunas ideas y sugerencias y gustas implementarlas puedes hacerlo!! 🤗 , por favor sigue los siguientes pasos.
 
 Aquí tienes una guía rápida:
 
