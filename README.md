@@ -8,7 +8,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <a href="https://github.com/Jesus-Puertos/guitar-la-javascript">
-  <img src="./public/favicon.svg" alt="Logo" width="400" />
+  <img src="./public/Desktop_README.png" alt="Logo" width="400" />
 </a>
 
 ## Carrito de Compras en React:
